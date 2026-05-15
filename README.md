@@ -1,11 +1,10 @@
-````markdown
-# 🎮✨ MENINO DO 67 ✨🎮
+# 🎮 MENINO DO 67
 
 <div align="center">
 
-# 🌤️👦💛
+## 🌤️👦💛
 
-## 🕹️ Pegue os "67" antes que eles caiam no chão!
+### 🕹️ Pegue os "67" antes que eles caiam no chão!
 
 🔥 Quanto mais pontos você faz...  
 ⚡ MAIS RÁPIDOS os "67" ficam!
@@ -14,21 +13,17 @@
 
 ---
 
-# 📸 Preview do jogo
+## 📸 Preview
 
-🌞 Céu animado  
-🌱 Campo aberto de grama  
-🙂 Menino sorridente  
-💛 "67" caindo do céu  
-🏆 Sistema de High Score  
-⚡ Dificuldade progressiva  
-🔄 Reinício rápido
+<img width="100%" src="preview.png">
+
+</div>
 
 ---
 
 # 🎯 Objetivo
 
-👉 Pegue os "67" que caem do céu  
+👉 Pegue os **"67"** que caem do céu  
 ❌ Não deixe nenhum cair no chão  
 🏆 Faça o maior número de pontos possível!
 
@@ -38,9 +33,9 @@
 
 | ⌨️ Tecla | 🎯 Função |
 |---|---|
-| ⬅️ A / ← | Mover para esquerda |
-| ➡️ D / → | Mover para direita |
-| 🔄 R | Reiniciar jogo |
+| `A` / `←` | Mover para esquerda |
+| `D` / `→` | Mover para direita |
+| `R` | Reiniciar jogo |
 
 ---
 
@@ -53,8 +48,6 @@
 ---
 
 ## 2️⃣ Instale o Pygame
-
-Abra o terminal e digite:
 
 ```bash
 pip install pygame
@@ -70,37 +63,31 @@ python jogo67.py
 
 ---
 
-# 🧠 Sistema de dificuldade
+# ⚡ Sistema de dificuldade
 
-💡 A cada **10 pontos**:
+A cada **10 pontos**:
 
-⚡ Os "67" começam a cair mais rápido!
-
-| 🏆 Pontos | ⚡ Velocidade |
-|---|---|
-| 0 | 🟢 Normal |
-| 10 | 🟡 Mais rápido |
-| 20 | 🟠 Difícil |
-| 30+ | 🔴 MUITO rápido |
+- ⚡ Os "67" ficam mais rápidos
+- 🔥 O jogo fica mais difícil
+- 🏆 Seu reflexo é testado
 
 ---
 
 # 🏆 Funcionalidades
 
-✅ High Score  
-✅ Reinício rápido  
-✅ Velocidade progressiva  
-✅ Campo animado  
-✅ Personagem desenhado em Python  
-✅ Gameplay simples e divertida  
-✅ Sistema de dificuldade automático  
+- ✅ High Score
+- ✅ Reinício rápido
+- ✅ Velocidade progressiva
+- ✅ Campo animado
+- ✅ Gameplay divertida
+- ✅ Feito totalmente em Python
 
 ---
 
-# 📦 Tecnologias usadas
+# 🐍 Tecnologias usadas
 
-🐍 Python  
-🎮 Pygame  
+- Python
+- Pygame
 
 ---
 
@@ -109,20 +96,22 @@ python jogo67.py
 ```bash
 📦 menino-do-67
  ┣ 📜 jogo67.py
- ┗ 📜 README.md
+ ┣ 📜 README.md
+ ┗ 🖼️ preview.png
 ```
 
 ---
 
 # 🌟 Dica
 
-💛 Tente prever onde o próximo "67" vai cair!
+💡 Tente prever onde o próximo **67** vai cair!
 
 ---
 
+<div align="center">
+
 # 👑 Autor
 
-Feito por Samir 🚀🔥
+Feito por **Samir** 🚀🔥
 
 </div>
-````
